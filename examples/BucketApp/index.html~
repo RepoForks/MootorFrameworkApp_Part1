@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="initial-scale = 1.0, user-scalable = no">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <link rel="stylesheet" href="../../source/css/mootor.css">
+    <link rel="stylesheet" href="../../source/css/color.css">
+    <link rel="stylesheet" href="../../source/css/icons.css">
+
+    <script defer type="text/javascript" src="../../dist/js/zepto-bundle.js"></script>
+    <script defer type="text/javascript" src="../../dist/js/mootor.js"></script>
+    <script defer type="text/javascript" src="index.js"></script>
+
+
+</head>
+
+<body>
+    <header>
+        <h1><img src="img/logo.png" /></h1>
+    </header>
+</body>
+
+</html>
